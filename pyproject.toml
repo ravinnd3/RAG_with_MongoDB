@@ -1,0 +1,17 @@
+[project]
+name = "krish-mongorag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "langchain>=1.2.0",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.6",
+    "langchain-text-splitters>=1.1.0",
+    "openai>=2.14.0",
+    "pymongo>=4.15.5",
+    "pypdf>=6.5.0",
+    "requests>=2.32.5",
+]

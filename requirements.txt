@@ -1,0 +1,9 @@
+pymongo
+openai
+langchain
+requests
+langchain_community
+pypdf
+langchain_openai
+ipykernel
+langchain-text-splitters
